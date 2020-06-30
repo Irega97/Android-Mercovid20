@@ -69,6 +69,6 @@ dependencies {
     implementation 'com.google.android.material:material:1.0.0'
     implementation 'com.squareup.picasso:picasso:2.71828'
 
-    implementation project(':unityLibrary-debug')
+    implementation project(':unity-final')
 }
 

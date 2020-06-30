@@ -22,9 +22,28 @@
     </androidx.recyclerview.widget.RecyclerView>
 
     <Button
+        android:id="@+id/top5general"
+        android:layout_width="199dp"
+        android:layout_height="33dp"
+        android:background="@drawable/button_rounded"
+        android:elegantTextHeight="true"
+        android:gravity="center_horizontal"
+        android:text="Top 5 Jugadores"
+        android:textAlignment="center"
+        android:textStyle="bold|italic"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.862"
+        tools:ignore="RtlCompat" />
+
+    <Button
         android:id="@+id/top5personal"
-        android:layout_width="200dp"
-        android:layout_height="50dp"
+        android:layout_width="203dp"
+        android:layout_height="35dp"
+        android:background="@drawable/button_rounded"
         android:elegantTextHeight="true"
         android:gravity="center_horizontal"
         android:text="Top 5 Personal"
@@ -32,27 +51,9 @@
         android:textStyle="bold|italic"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.904"
-        tools:ignore="RtlCompat" />
-    <Button
-        android:id="@+id/top5general"
-        android:layout_width="200dp"
-        android:layout_height="50dp"
-        android:elegantTextHeight="true"
-        android:gravity="center_horizontal"
-        android:text="Top 5 Jugadores"
-        android:textAlignment="center"
-        android:visibility="invisible"
-        android:textStyle="bold|italic"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.904"
+        app:layout_constraintVertical_bias="0.862"
         tools:ignore="RtlCompat" />
 
 

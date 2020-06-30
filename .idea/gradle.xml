@@ -11,18 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/unityLibrary-debug" />
-            <option value="$PROJECT_DIR$/unityLibrary-moro" />
-            <option value="$PROJECT_DIR$/unityLibrary-moro0" />
-            <option value="$PROJECT_DIR$/unityLibrary-moro1" />
-            <option value="$PROJECT_DIR$/unityLibrary-moro2" />
-            <option value="$PROJECT_DIR$/unityLibrary-moro3" />
-            <option value="$PROJECT_DIR$/unityLibrary-moro4" />
-            <option value="$PROJECT_DIR$/unityLibrary-moro5" />
-            <option value="$PROJECT_DIR$/unityLibrary-moro6" />
-            <option value="$PROJECT_DIR$/unityLibrary-moro7" />
-            <option value="$PROJECT_DIR$/unityLibrary-moro8" />
-            <option value="$PROJECT_DIR$/unityLibrary-release" />
+            <option value="$PROJECT_DIR$/unity-final" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
